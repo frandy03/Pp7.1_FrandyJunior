@@ -1,0 +1,10 @@
+{
+  "name": "Pp7.1-FrandyJunior",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
